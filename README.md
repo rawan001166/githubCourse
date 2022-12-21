@@ -1,3 +1,0 @@
-# githubCourse
-
- “Hello Odin!”
